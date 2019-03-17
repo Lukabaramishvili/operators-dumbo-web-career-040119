@@ -6,5 +6,3 @@ RSpec.configure do |config|
   c.drb_port     = 1234
   c.default_path = 'behavior'
 end
-
-end
