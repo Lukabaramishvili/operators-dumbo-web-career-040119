@@ -3,5 +3,5 @@ require_relative '../lib/operations.rb'
 
 RSpec.configure do |config|
   config.add_formatter 'documentation'
-end
+
 end
