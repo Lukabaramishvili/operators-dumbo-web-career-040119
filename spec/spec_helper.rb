@@ -2,7 +2,5 @@
 require_relative '../lib/operations.rb'
 
 RSpec.configure do |config|
-  c.drb          = true
-  c.drb_port     = 1234
-  c.default_path = 'behavior'
+  
 end
